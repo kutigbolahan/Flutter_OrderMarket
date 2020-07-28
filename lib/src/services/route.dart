@@ -11,15 +11,14 @@ abstract class Routes {
     switch (settings.name) {
       case "/":
         return MaterialPageRoute(builder: (context) => Landing());
-        break;
+
       case "/signup":
         return MaterialPageRoute(builder: (context) => Signup());
-        break;
+
       case "/Login":
         return MaterialPageRoute(builder: (context) => Login());
       default:
         return MaterialPageRoute(builder: (context) => Login());
-        break;
     }
   }
 
@@ -28,15 +27,14 @@ abstract class Routes {
     switch (settings.name) {
       case "/":
         return CupertinoPageRoute(builder: (context) => Landing());
-        break;
+
       case "/signup":
         return CupertinoPageRoute(builder: (context) => Signup());
-        break;
+
       case "/Login":
         return CupertinoPageRoute(builder: (context) => Login());
       default:
         return CupertinoPageRoute(builder: (context) => Login());
-        break;
     }
   }
 }

@@ -1,4 +1,4 @@
-package com.example.orderMarket
+package com.kuti.orderMarket
 
 import io.flutter.embedding.android.FlutterActivity
 

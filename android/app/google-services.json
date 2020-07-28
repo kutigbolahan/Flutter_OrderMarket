@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098744016534",
+    "firebase_url": "https://ordermarket-7e23b.firebaseio.com",
+    "project_id": "ordermarket-7e23b",
+    "storage_bucket": "ordermarket-7e23b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098744016534:android:0e780e965539c799991cb7",
+        "android_client_info": {
+          "package_name": "com.kuti.orderMarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098744016534-2kpdtolrd7cdgfq95uao148pcvqggn9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuti.orderMarket",
+            "certificate_hash": "eaa849870036f155050eea8e69988fa463157247"
+          }
+        },
+        {
+          "client_id": "1098744016534-kgkr10vh6l0uc7lm794oeqqmr6737315.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZ933BG3ykvdyR7Cr_DmLdPgDWrvFHWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098744016534-kgkr10vh6l0uc7lm794oeqqmr6737315.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
